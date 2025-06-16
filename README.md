@@ -21,7 +21,7 @@
 
 ### 📫 Let's Connect!
 <!-- Add your social media or contact links here in the future -->
-https://www.instagram.com/josuawh/
+- [Instagram: @josuawh](https://www.instagram.com/josuawh/)
 
 
 ---
