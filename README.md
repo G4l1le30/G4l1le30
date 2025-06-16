@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi there, I'm G4l1le30! 👋
 
 **Exploring the world of web development and cyber security | S1 Informatika FILKOM UB**
@@ -28,4 +27,3 @@
 <!--
 **G4l1le30/G4l1le30** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-````
