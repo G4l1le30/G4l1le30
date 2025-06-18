@@ -1,4 +1,4 @@
-# Hi there, I'm G4l1le30! 👋
+# Hi there, I'm Joshua Washington! 👋
 
 **Exploring the world of web development and cyber security | S1 Informatika FILKOM UB**
 
