@@ -6,16 +6,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Informatics undergraduate student at FILKOM UB
-- 🌐 Focus on Full Stack Development (MERN Stack)
 - 🛡️ Enthusiast in Cyber Security
-
----
-
-### 🚀 Tech Stack
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other:** Git, Linux, Cyber Security Tools
 
 ---
 
