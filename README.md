@@ -13,6 +13,9 @@
 ### 📫 Let's Connect!
 <!-- Add your social media or contact links here in the future -->
 - [Instagram: @josuawh](https://www.instagram.com/josuawh/)
+- [Linkedin: joshua-hutasoit-245123304](https://www.linkedin.com/in/joshua-hutasoit-245123304/)
+- [Medium: @joshuahutasoit809](https://medium.com/@joshuahutasoit809)
+- [Blogger](https://www.blogger.com/profile/05048418773136240230)
 
 
 ---
