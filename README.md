@@ -16,6 +16,7 @@
 - [Linkedin: joshua-hutasoit-245123304](https://www.linkedin.com/in/joshua-hutasoit-245123304/)
 - [Medium: @joshuahutasoit809](https://medium.com/@joshuahutasoit809)
 - [Blogger](https://www.blogger.com/profile/05048418773136240230)
+- [Personal Portfolio](https://joshuahutasoit.vercel.app/)
 
 
 ---
