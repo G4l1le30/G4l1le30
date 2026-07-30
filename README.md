@@ -50,13 +50,15 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=G4l1le30&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G4l1le30&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=G4l1le30&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=G4l1le30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&hide_border=true" alt="GitHub Extra Stats" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4l1le30&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4l1le30&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </p>
+
+> Stats cards are served by [github-readme-stats-fast](https://github.com/pranesh-2005/github-readme-stats-fast), a community fork with SVG caching — swap this out if it ever goes down too, or self-host your own instance for full reliability.
 
 ---
 
