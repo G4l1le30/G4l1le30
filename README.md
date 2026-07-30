@@ -57,9 +57,9 @@
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=G4l1le30&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </p>
-
+<!--
 > Stats cards are served by [github-readme-stats-fast](https://github.com/pranesh-2005/github-readme-stats-fast), a community fork with SVG caching — swap this out if it ever goes down too, or self-host your own instance for full reliability.
-
+-->
 ---
 
 ### 📫 Let's Connect!
