@@ -40,8 +40,8 @@
 ### 🏆 TryHackMe
 
 <p align="left">
-  <a href="https://tryhackme.com/p/joshuahutasoit80" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/joshuahutasoit80.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="./assets/tryhackme-badge.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
